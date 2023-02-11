@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My GitHub Stats
+[![Sudheesh Kumar Ethirajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=skethirajan&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### My GitHub Streak
+[![Sudheesh Kumar Ethirajan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skethirajan&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
