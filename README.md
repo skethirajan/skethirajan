@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My GitHub Stats
-![Sudheesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=skethirajan&show_icons=true&theme=radical&bg_color=00000000)
+![Sudheesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=skethirajan&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true) ![Sudheesh Kumar Ethirajan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skethirajan&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true)
 
-### My GitHub Streak
-[![Sudheesh Kumar Ethirajan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skethirajan&theme=cobalt)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skethirajan&theme=transparent&bg_color=00000000&hide_border=true)
+
+
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
