@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 ### My GitHub Streak
 [![Sudheesh Kumar Ethirajan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skethirajan&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
