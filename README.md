@@ -16,13 +16,15 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=210 align="center" src="https://github-readme-stats.vercel.app/api?username=skethirajan&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true" alt="Sudheesh's GitHub Stats" />
+  <img height=210 align="center" src="https://github-readme-stats.vercel.app/api?username=skethirajan&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&custom_title=Sudheesh's+GitHub+Stats" alt="Sudheesh's GitHub Stats" />
 </a>
 <a href="https://git.io/streak-stats">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=skethirajan&mode=weekly&theme=transparent&bg_color=00000000&hide_border=true&card_width=300" alt="Sudheesh's GitHub Streak" />
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=skethirajan&mode=weekly&theme=transparent&bg_color=00000000&hide_border=true&hide_title=true&card_width=300" alt="Sudheesh's GitHub Streak" />
 </a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skethirajan&theme=transparent&bg_color=00000000&hide_border=true&hide_progress=true)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+![](https://komarev.com/ghpvc/?username=skethirajan&label=PROFILE+VIEWS)
