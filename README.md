@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skethirajan&theme=transparent&bg_color=00000000&hide_border=true&hide_progress=true)
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=skethirajan&label=PROFILE+VIEWS)
