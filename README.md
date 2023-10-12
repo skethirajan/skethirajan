@@ -26,6 +26,14 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
+```rust
+From: 11 October 2023 - To: 12 October 2023
+
+Total Time: 22 mins
+
+Other            1 hr 12 mins    >>>>>>>>>>>>>>>>>>>------   76.51 %
+```
+
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=skethirajan&label=PROFILE+VIEWS)
