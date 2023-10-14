@@ -27,15 +27,17 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 11 October 2023 - To: 13 October 2023
+From: 11 October 2023 - To: 14 October 2023
 
-Total Time: 1 hr
+Total Time: 10 hrs 24 mins
 
-Python           37 mins         >>>>>>>>>>>>>>>----------   59.73 %
-Log File         20 mins         >>>>>>>>-----------------   33.19 %
-Bash             1 min           >------------------------   02.67 %
-ActionScript 3   1 min           >------------------------   02.07 %
-Other            1 min           -------------------------   01.75 %
+Bash             5 hrs           >>>>>>>>>>>>-------------   47.91 %
+Python           3 hrs 17 mins   >>>>>>>>-----------------   31.51 %
+YAML             1 hr 12 mins    >>>----------------------   11.55 %
+Log File         29 mins         >------------------------   04.65 %
+Brainfuck        16 mins         >------------------------   02.67 %
+Ezhil            3 mins          -------------------------   00.60 %
+Other            2 mins          -------------------------   00.40 %
 ```
 
 <!--END_SECTION:waka-->
