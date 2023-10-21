@@ -27,20 +27,19 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 11 October 2023 - To: 20 October 2023
+From: 11 October 2023 - To: 21 October 2023
 
-Total Time: 18 hrs 2 mins
+Total Time: 22 hrs 17 mins
 
-Bash               7 hrs 40 mins   >>>>>>>>>>>--------------   42.43 %
-Python             5 hrs 21 mins   >>>>>>>------------------   29.62 %
-Jupyter Notebook   1 hr 53 mins    >>>----------------------   10.45 %
-YAML               1 hr 12 mins    >>-----------------------   06.71 %
-Log File           46 mins         >------------------------   04.31 %
-JSON               39 mins         >------------------------   03.63 %
-Git                17 mins         -------------------------   01.59 %
-Ezhil              5 mins          -------------------------   00.53 %
-Assembly           4 mins          -------------------------   00.41 %
-Other              2 mins          -------------------------   00.25 %
+Bash               8 hrs 23 mins   >>>>>>>>>----------------   37.46 %
+Python             5 hrs 22 mins   >>>>>>-------------------   24.02 %
+TOML               2 hrs 21 mins   >>>----------------------   10.52 %
+Jupyter Notebook   1 hr 53 mins    >>-----------------------   08.44 %
+YAML               1 hr 49 mins    >>-----------------------   08.18 %
+JSON               50 mins         >------------------------   03.78 %
+Log File           46 mins         >------------------------   03.48 %
+Git                17 mins         -------------------------   01.28 %
+Other              6 mins          -------------------------   00.49 %
 ```
 
 <!--END_SECTION:waka-->
