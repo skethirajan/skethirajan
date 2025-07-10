@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 11 October 2023 - To: 09 July 2025
+From: 11 October 2023 - To: 10 July 2025
 
-Total Time: 879 hrs 46 mins
+Total Time: 882 hrs 17 mins
 
-Jupyter Notebook   332 hrs 39 mins >>>>>>>>-----------------   32.50 %
-Python             308 hrs 12 mins >>>>>>>>-----------------   30.11 %
-Other              143 hrs 57 mins >>>>---------------------   14.06 %
+Jupyter Notebook   334 hrs 56 mins >>>>>>>>-----------------   32.64 %
+Python             308 hrs 12 mins >>>>>>>>-----------------   30.03 %
+Other              143 hrs 57 mins >>>>---------------------   14.03 %
 ```
 
 <!--END_SECTION:waka-->
