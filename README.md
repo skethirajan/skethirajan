@@ -31,9 +31,9 @@ From: 11 October 2023 - To: 17 February 2026
 
 Total Time: 1,274 hrs 15 mins
 
-Jupyter Notebook   575 hrs 29 mins >>>>>>>>>>---------------   39.63 %
-Python             378 hrs 48 mins >>>>>>>------------------   26.09 %
-Other              177 hrs 50 mins >>>----------------------   12.25 %
+Jupyter Notebook   575 hrs 29 mins       >>>>>>>>>>---------------   39.63 %
+Python             378 hrs 48 mins       >>>>>>>------------------   26.09 %
+Other              177 hrs 50 mins       >>>----------------------   12.25 %
 ```
 
 <!--END_SECTION:waka-->
